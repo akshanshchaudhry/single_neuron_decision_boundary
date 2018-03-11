@@ -1,6 +1,8 @@
 # single_neuron_decision_boundary
 The Purpose of this project is to practice with a single neuron decision boundary and learning rule. It will display a decision boundary of single neuron.
 
+Python Version - 3.6
+
 This program contains 3 sliders, 2 buttons, and one drop
 down selection box.
 
